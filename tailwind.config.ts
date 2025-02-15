@@ -9,6 +9,9 @@ export default {
   ],
   theme: {
   	extend: {
+			backgroundImage: {
+				bannerImg: "url('/alex-meta-t6PSC-WjIiQ-unsplash.jpg')",
+			},
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
